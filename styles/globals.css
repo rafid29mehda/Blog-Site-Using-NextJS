@@ -1,0 +1,84 @@
+html, body{
+  padding: 0;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+*{
+  box-sizing: border-box;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(23, 173, 118);
+}
+
+.image {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.rafid {
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  font-size: 40px;
+  color: #04724a;
+}
+
+.mehda {
+  position: absolute;
+  top: 40%;
+  left: 42%;
+  font-size: 18px;
+  color: #04724a;
+}
+
+/* li {
+  float: right;
+}
+
+.nav {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+} */
+
+.nav {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  margin-right: 30px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav:hover {
+  color: rgb(0, 74, 74);
+  text-decoration: underline;
+}
+
+.nav .active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.hero{
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+

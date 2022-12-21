@@ -1,0 +1,24 @@
+.container{
+  margin: 5rem;
+}
+
+.h2{
+  margin: 4rem;
+  padding-left: 10px;
+  color: #04724a;
+  text-align: center;
+  font-size: 50px;
+  
+}
+
+.box1{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: rgb(161, 219, 161);
+}
+
+.dec{
+  text-decoration: none;
+  color: rgb(37, 35, 35);
+}

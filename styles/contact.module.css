@@ -1,0 +1,16 @@
+.h1{
+    text-align: center;
+    color: rgb(41, 38, 38);
+}
+
+.blog{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.p{
+    text-align: justify;
+
+}
